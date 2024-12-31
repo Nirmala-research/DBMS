@@ -34,8 +34,8 @@ This repository is designed to provide free access to a collection of e-books on
 ---
 
 ## 💬 Have Questions or Suggestions?
-Feel free to DM me for any queries or suggestions:
-[**Follow here! @lets__code**] <v.nirmalaresearch@gmail.com>
+Feel free to ask for any queries or suggestions:
+[**DM here! @**] <v.nirmalaresearch@gmail.com>
 Stay updated with the latest coding tips, tricks, and resources!
 
 ---
