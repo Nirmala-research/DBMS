@@ -3,7 +3,7 @@
 
 Welcome to the **Free E-Books on DBMS** repository! 🎉 This space is a treasure trove for all book lovers and learners who want to dive deep into the world of **Database Management Systems (DBMS)**.
 
-<img src="DBMS.jpeg" width="800" height="300">
+<img src="assets\DBMS.jpeg" width="800" height="300">
 
 ## ✨ Why This Repository?
 This repository is designed to provide free access to a collection of e-books on DBMS. Whether you're a student, a professional, or a curious learner, you'll find valuable resources here to master the concepts of DBMS and enhance your skills.
