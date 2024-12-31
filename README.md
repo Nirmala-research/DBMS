@@ -177,7 +177,7 @@ ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS thes
 
 ### 8) What is meant by Normalization and Denormalization?
 
-<img src="assets\D&N.webp" width="500" height="400">
+<img src="assets\D&N.webp" width="500" height="600">
 
 **Normalization** is a process of reducing redundancy by organizing the data into multiple tables. Normalization leads to better usage of disk spaces and makes it easier to maintain the integrity of the database.  
 
