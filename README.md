@@ -195,7 +195,7 @@ ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS thes
  
 - 2NF: It is known as the second normal form. A table to be in its second normal form should satisfy the following conditions:
     - The table should be in its 1NF i.e. satisfy all the conditions of 1NF.
-    - Every non-prime attribute of the table should be fully functionally dependent on the primary key i.e. every non-key attribute should be dependent on the primary key in such a way that if any key element is deleted then even the non_key element will be saved in the database.
+    - Every non-prime attribute of the table should be fully functionally dependent on the primary key, i.e. every non-key attribute should be dependent on the primary key in such a way that if any key element is deleted, then even the non_key element will be saved in the database.
  
 - 3NF: It is known as the third normal form. A table to be in its third normal form should satisfy the following conditions:
     - The table should be in its 2NF i.e. satisfy all the conditions of 2NF.
@@ -213,7 +213,7 @@ ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS thes
 ### 10) What is an Entity-Relationship Diagram (ER-Diagram)?  
 An ER-Diagram is a visual representation of the relationships among entities in a database, showing how different tables are connected.
 
-<img src="assets\ER diagram.jpg" width="1000" height="500">
+<img src="assets\ER diagram.jpg" width="800" height="400">
 ---
 
 ### 11) Different types of keys in a database?
