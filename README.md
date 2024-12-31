@@ -3,7 +3,97 @@
 Here we have basic level notes of DBMS. These questions will familiarize you with the most important DBMS concepts and help you ace your job interviews :raised_hands:
 
 ---
+# 📚 Free E-Books on DBMS
 
+Welcome to the **Free E-Books on DBMS** repository! 🎉 This space is a treasure trove for all book lovers and learners who want to dive deep into the world of **Database Management Systems (DBMS)**.
+
+## ✨ Why This Repository?
+This repository is designed to provide free access to a collection of e-books on DBMS. Whether you're a student, a professional, or a curious learner, you'll find valuable resources here to master the concepts of DBMS and enhance your skills.
+
+### What You Can Do Here:
+- 📖 **Download e-books**: Explore and download e-books to learn at your own pace.
+- 📤 **Contribute your e-books**: Share your collection of e-books and help others in their learning journey.
+- 🌟 **Level up your career**: Use these resources to gain knowledge, practice, and showcase your skills!
+
+---
+
+## 📂 How to Use This Repository
+
+### For Readers:
+1. Browse through the repository.
+2. Navigate to the `books` folder.
+3. Click on the e-book you want.
+4. Use the **Download** button to get the e-book and start reading!
+
+### For Contributors:
+1. Fork this repository.
+2. Add your e-books in an appropriate folder.
+3. Create a pull request.
+4. 🎉 Your contribution will be welcomed and appreciated!
+
+---
+
+## 💬 Have Questions or Suggestions?
+Feel free to DM me on Instagram for any queries or suggestions:
+[**Follow here! @lets__code**](https://www.instagram.com/lets__code/) 
+Stay updated with the latest coding tips, tricks, and resources!
+
+---
+
+## 📢 Let's Build a Community Together
+
+- Your contributions make this repository better. Share your resources and knowledge.
+- Don’t forget to give this repository a ⭐ to help it reach more learners!
+
+---
+
+> **Disclaimer**: All e-books shared here are intended for educational purposes only. Please ensure you have the right to share the content you're uploading.
+
+
+### My Personal Favourite DBMS Books 📚
+1. R.Elmasri, S.B.Navathe. Fundamentals of Database Systems, Addison Wesley, Seventh
+Edition, 2016. 
+2. Kristina Chodorow and Michel Dirolf. MongoDB: The Definitive Guide, O'Reilly,
+Publications, Second Edition, 2013.
+3. Henry F.Kort, Abraham Silberschatz, Sudarshan. Database System Concepts, McGraw
+Hill, Sixth Edition, 2010.
+4. Raghu Ramakrishnan, Johannes Gehrke. Database Management Systems,
+McGraw Hill, Third Edition, 2003.
+
+### Courses 🎓
+
+| Course Name                                                  |  Link                                                                                                                            |
+|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| MIT Course                                                   | [Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/)  |
+| SQL Tutorial: Learn SQL with MySQL Database -Beginner2Expert | [Link](https://www.udemy.com/course/sql-tutorial-learn-sql-with-mysql-database-beginner2expert/)                                 |
+| NPTEL Course                                                 | [Link](https://nptel.ac.in/courses/106105175/1)                                                                                  |
+| SQL for Beginners: Learn SQL using MySQL and Database Design | [Link](https://www.udemy.com/course/sql-for-beginners-course/)                                                                   |
+| Introduction to Structured Query Language (SQL)              | [Link](https://www.coursera.org/learn/intro-sql)                                                                                 |
+| Introduction to Relational Database and SQL                  | [Link](https://www.coursera.org/projects/introduction-to-relational-database-and-sql)                                            |
+
+### Books 📚
+| Book                                                                                       | Link                                                                            |
+|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Stanford Database Systems: The Complete Book                                               | [Link](http://infolab.stanford.edu/~ullman/dscb.html)                           |
+| Designing Data-Intensive Applications                                                      | [Link](http://shop.oreilly.com/product/0636920032175.do)                        |
+| Database Internals                                                                         | [Link](https://www.oreilly.com/library/view/database-internals/9781492040330/)  |
+| Foundations of Databases                                                                   | [Link](http://webdam.inria.fr/Alice/)                                           |
+| Readings in Database Systems, 5th Edition                                                  | [Link](http://www.redbook.io/)                                                  |
+| Database Design and Implementation: Second Edition (Data-Centric Systems and Applications) | [Link](https://www.amazon.com/dp/3030338355)                                    |
+| Principles of Distributed Database Systems, 4th ed                                         | [Link](https://www.amazon.com/dp/3030262529)                                    |
+| Inside SQLite                                                                              | [Link](https://books.google.com/books/about/Inside_SQLite.html?id=QoxUx8GOjKMC) |
+| Architecture of a Database System                                                          | [Link](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)                |
+
+### Talks 📣
+
+| Title                                                            | Link                                                                            |
+|------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Data Structures and Algorithms for Big Databases                 | [Link](https://people.csail.mit.edu/bradley/BenderKuszmaul-tutorial-xldb12.pdf) |
+| A Journey From A Quick HackTo A High-Reliability Database Engine | [Link](https://www.sqlite.org/talks/wroclaw-20090310.pdf)                       |
+
+___
+
+We hope this gets you interested in learning more about DBMS ✌️
 
 ## General Questions on DBMS
 
