@@ -152,7 +152,7 @@ E.g., COMMIT, ROLLBACK, and SAVEPOINT.
 
 ### 6) ACID properties in DBMS?
 
-<img src="assets\ACID.png" width="600" height="300">
+<img src="assets\ACID.png" width="400" height="200">
 
 ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS these are those properties that ensure a safe and secure way of sharing data among multiple users.
 
