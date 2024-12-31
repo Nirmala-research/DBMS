@@ -4,14 +4,10 @@ Here we have basic level notes of DBMS. These questions will familiarize you wit
 
 ---
 
-###
-
-
----
 
 ## General Questions on DBMS
 
-<img src="DBMS.png" width="600" height="200">
+<img src="DBMS.jpeg" width="600" height="200">
 
 ### 1) What is DBMS?
 A DBMS is software that manages databases, providing an interface to store, retrieve, and manipulate data efficiently and securely.
