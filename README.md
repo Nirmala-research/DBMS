@@ -7,7 +7,7 @@ Here we have basic level notes of DBMS. These questions will familiarize you wit
 
 ## General Questions on DBMS
 
-<img src="DBMS.jpeg" width="600" height="200">
+<img src="DBMS.jpeg" width="800" height="300">
 
 ### 1) What is DBMS?
 A DBMS is software that manages databases, providing an interface to store, retrieve, and manipulate data efficiently and securely.
@@ -59,7 +59,7 @@ E.g., COMMIT, ROLLBACK, and SAVEPOINT.
 
 ### 6) ACID properties in DBMS?
 
-<img src="ACID.png" width="600" height="200">
+<img src="ACID.png" width="800" height="300">
 
 ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS these are those properties that ensure a safe and secure way of sharing data among multiple users.
 
@@ -84,7 +84,7 @@ ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS thes
 
 ### 8) What is meant by Normalization and Denormalization?
 
-<img src="D&N.webp" width="600" height="200">
+<img src="D&N.webp" width="600" height="400">
 
 **Normalization** is a process of reducing redundancy by organizing the data into multiple tables. Normalization leads to better usage of disk spaces and makes it easier to maintain the integrity of the database.  
 
@@ -159,7 +159,7 @@ The SQL Join clause is used to combine records (rows) from two or more tables in
 
 There are four different types of JOINs in SQL:
 
-<img src="JOIN.png" width="600" height="200">
+<img src="JOIN.png" width="600" height="400">
 
 - **INNER JOIN**: Retrieves records that have matching values in both tables involved in the join. This is the widely used join for queries.
 - **LEFT OUTER JOIN**: Retrieves all the records/rows from the left and the matched records/rows from the right table.
