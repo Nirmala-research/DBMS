@@ -1,11 +1,8 @@
-# DBMS - Let's Learn Easy: white_check_mark: 
 
-Here we have basic level notes of DBMS. These questions will familiarize you with the most important DBMS concepts and help you ace your job interviews :raised_hands:
-
----
 # 📚 Free E-Books on DBMS
 
 Welcome to the **Free E-Books on DBMS** repository! 🎉 This space is a treasure trove for all book lovers and learners who want to dive deep into the world of **Database Management Systems (DBMS)**.
+
 <img src="DBMS.jpeg" width="800" height="300">
 
 ## ✨ Why This Repository?
@@ -52,13 +49,13 @@ Stay updated with the latest coding tips, tricks, and resources!
 
 
 ### My Personal Favourite DBMS Books 📚
-1. R.Elmasri, S.B.Navathe. Fundamentals of Database Systems, Addison Wesley, Seventh
+✅ R.Elmasri, S.B.Navathe. Fundamentals of Database Systems, Addison Wesley, Seventh
 Edition, 2016. 
-2. Kristina Chodorow and Michel Dirolf. MongoDB: The Definitive Guide, O'Reilly,
+✅ Kristina Chodorow and Michel Dirolf. MongoDB: The Definitive Guide, O'Reilly,
 Publications, Second Edition, 2013.
-3. Henry F.Kort, Abraham Silberschatz, Sudarshan. Database System Concepts, McGraw
+✅ Henry F.Kort, Abraham Silberschatz, Sudarshan. Database System Concepts, McGraw
 Hill, Sixth Edition, 2010.
-4. Raghu Ramakrishnan, Johannes Gehrke. Database Management Systems,
+✅ Raghu Ramakrishnan, Johannes Gehrke. Database Management Systems,
 McGraw Hill, Third Edition, 2003.
 
 ### Courses 🎓
@@ -96,6 +93,11 @@ ___
 
 We hope this gets you interested in learning more about DBMS ✌️
 
+# DBMS - Let's Learn Easy: 😎
+
+Here we have basic level notes of DBMS. These questions will familiarize you with the most important DBMS concepts and help you ace your job interviews :raised_hands:
+
+---
 ## General Questions on DBMS
 
 <img src="DBMS.jpeg" width="800" height="300">
