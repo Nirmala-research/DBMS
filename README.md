@@ -1,4 +1,4 @@
-# DBMS - Let's Learn Easy:white_check_mark: 
+# DBMS - Let's Learn Easy: white_check_mark: 
 
 Here we have basic level notes of DBMS. These questions will familiarize you with the most important DBMS concepts and help you ace your job interviews :raised_hands:
 
@@ -6,6 +6,7 @@ Here we have basic level notes of DBMS. These questions will familiarize you wit
 # 📚 Free E-Books on DBMS
 
 Welcome to the **Free E-Books on DBMS** repository! 🎉 This space is a treasure trove for all book lovers and learners who want to dive deep into the world of **Database Management Systems (DBMS)**.
+<img src="DBMS.jpeg" width="800" height="300">
 
 ## ✨ Why This Repository?
 This repository is designed to provide free access to a collection of e-books on DBMS. Whether you're a student, a professional, or a curious learner, you'll find valuable resources here to master the concepts of DBMS and enhance your skills.
