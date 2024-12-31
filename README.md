@@ -213,7 +213,7 @@ ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS thes
 ### 10) What is an Entity-Relationship Diagram (ER-Diagram)?  
 An ER-Diagram is a visual representation of the relationships among entities in a database, showing how different tables are connected.
 
-<img src="assets\ER diagram.jpg" width="800" height="400">
+<img src="assets\ER diagram.jpg" width="600" height="400">
 ---
 
 ### 11) Different types of keys in a database?
