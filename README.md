@@ -49,13 +49,13 @@ Stay updated with the latest coding tips, tricks, and resources!
 
 
 ### My Personal Favourite DBMS Books 📚
--✅ R.Elmasri, S.B.Navathe. Fundamentals of Database Systems, Addison Wesley, Seventh
+- ✅ R.Elmasri, S.B.Navathe. Fundamentals of Database Systems, Addison Wesley, Seventh
 Edition, 2016. 
--✅ Kristina Chodorow and Michel Dirolf. MongoDB: The Definitive Guide, O'Reilly,
+- ✅ Kristina Chodorow and Michel Dirolf. MongoDB: The Definitive Guide, O'Reilly,
 Publications, Second Edition, 2013.
--✅ Henry F.Kort, Abraham Silberschatz, Sudarshan. Database System Concepts, McGraw
+- ✅ Henry F.Kort, Abraham Silberschatz, Sudarshan. Database System Concepts, McGraw
 Hill, Sixth Edition, 2010.
--✅ Raghu Ramakrishnan, Johannes Gehrke. Database Management Systems,
+- ✅ Raghu Ramakrishnan, Johannes Gehrke. Database Management Systems,
 McGraw Hill, Third Edition, 2003.
 
 ### Courses 🎓
